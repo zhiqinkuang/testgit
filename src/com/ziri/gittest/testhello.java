@@ -6,6 +6,7 @@ package com.ziri.gittest;
  */
 public class testhello {
     public static void main(String[] args) {
-        System.out.printf("hello git");
+        System.out.println("hello git");
+        System.out.println("第二次更新");
     }
 }
