@@ -11,5 +11,6 @@ public class testhello {
         System.out.println("热修更新");
         System.out.println("热修更新2");
         System.out.println("push test");
+         System.out.println("pull test");
     }
 }
